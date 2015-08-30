@@ -1,5 +1,5 @@
 /*
- * Creative Coding
+ * Creative Coding MOOC
  * Week 1, 02 - Draw your name! (part 2)
  * by Becca Rose, base on code by Indae Hwang and Jon McCormack
  * This program allows you to draw using the mouse.
